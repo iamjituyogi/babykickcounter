@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "116344780918",
+    "firebase_url": "https://bhagavad-gita-hindi-shlok-default-rtdb.firebaseio.com",
+    "project_id": "bhagavad-gita-hindi-shlok",
+    "storage_bucket": "bhagavad-gita-hindi-shlok.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116344780918:android:6810057563c95901bd0757",
+        "android_client_info": {
+          "package_name": "com.bhagavadgitahindishlok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmrP_d-EAdMxOCm1ievtaX_2VZoZISdEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116344780918:android:fbff30ac569568aebd0757",
+        "android_client_info": {
+          "package_name": "com.kickcountbabytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmrP_d-EAdMxOCm1ievtaX_2VZoZISdEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116344780918:android:d9c176843c2ebb63bd0757",
+        "android_client_info": {
+          "package_name": "com.rashifalhindi.daily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmrP_d-EAdMxOCm1ievtaX_2VZoZISdEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
